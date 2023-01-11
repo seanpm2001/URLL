@@ -1,0 +1,11 @@
+# FTP handler
+# FTP (File Transfer Protocol)
+useStrictYAML: True
+URLL-versions: ["1.x", "2.x", "3.x"]
+ftp-abbreviation: "FTP (File Transfer Protocol)"
+parameter: "ftp://"
+isANSI: True
+isASCII: True
+isUnicodeOnly: False
+handler: "/Protocols/F/FTP/Handlers/FTP.py"
+# File version: 2 (2023, Wednesday, January 11th at 3:44 pm PST)
