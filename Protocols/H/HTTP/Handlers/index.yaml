@@ -2,12 +2,12 @@
 # HTTP (HyperText Transfer Protocol)
 useStrictYAML: True
 URLL-versions: ["1.x", "2.x", "3.x"]
-ftp-abbreviation: "HTTP (HyperText Transfer Protocol)"
+http-abbreviation: "HTTP (HyperText Transfer Protocol)"
 parameter: "http://"
 redirectParam: "https://"
 redirect: False
 isANSI: True
 isASCII: True
 isUnicodeOnly: False
-handler: "/Protocol/H/HTTP/Handlers/HTTP.py"
-# File version: 1 (2023, Wednesday, January 11th at 3:37 pm PST)
+handler: "/Protocols/H/HTTP/Handlers/HTTP.py"
+# File version: 2 (2023, Wednesday, January 11th at 3:43 pm PST)
