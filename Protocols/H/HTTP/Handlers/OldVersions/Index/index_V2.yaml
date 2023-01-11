@@ -1,0 +1,13 @@
+# HTTP handler
+# HTTP (HyperText Transfer Protocol)
+useStrictYAML: True
+URLL-versions: ["1.x", "2.x", "3.x"]
+http-abbreviation: "HTTP (HyperText Transfer Protocol)"
+parameter: "http://"
+redirectParam: "https://"
+redirect: False
+isANSI: True
+isASCII: True
+isUnicodeOnly: False
+handler: "/Protocols/H/HTTP/Handlers/HTTP.py"
+# File version: 2 (2023, Wednesday, January 11th at 3:43 pm PST)
