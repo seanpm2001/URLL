@@ -1,0 +1,13 @@
+# HTTPS handler
+# HTTPS (HyperText Transfer Protocol Secure)
+useStrictYAML: True
+URLL-versions: ["1.x", "2.x", "3.x"]
+https-abbreviation: "HTTPS (HyperText Transfer Protocol Secure)"
+parameter: "https://"
+redirectParam: "http://"
+redirect: False
+isANSI: True
+isASCII: True
+isUnicodeOnly: False
+handler: "/Protocols/H/HTTPS/Handlers/HTTPS.py"
+# File version: 1 (2023, Wednesday, January 11th at 3:41 pm PST)
